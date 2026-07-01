@@ -1,3 +1,4 @@
+废弃
 # GitHubHostsFlush
 
 #### 解决在某些地区由于dns污染导致的GitHub网页打开缓慢的问题
